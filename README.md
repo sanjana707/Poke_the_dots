@@ -1,6 +1,6 @@
 # Poke the dots
 
-A graphic game created using the pygame Python library. 
+A graphical game created using the pygame Python library. 
 
 Rules: 
   1. The player has to click the mouse button at the right time to prevent the dots from touching each other. 
