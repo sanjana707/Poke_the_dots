@@ -2,6 +2,7 @@
 
 A graphical game created using the pygame Python library. 
 
+
 Rules: 
   1. The player has to click the mouse button at the right time to prevent the dots from touching each other. 
   2. If the dots touch each other you lose
