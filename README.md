@@ -1,6 +1,6 @@
 # Poke the dots
 
-A graphical game created using the pygame Python library. 
+A graphical game developed using the pygame Python library. 
 
 
 Rules: 
