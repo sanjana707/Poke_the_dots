@@ -1,6 +1,23 @@
-# Poke the dots
+# 🟣 Poke the dots
 
-A graphical game developed using the pygame Python library. 
+A Python-Powered Reflex Game!
+
+Poke the Dots is a fun and fast-paced reflex game built using Python and tkinter. Your goal is simple: tap the dots before they disappear! As the game progresses, the dots move faster and become trickier to catch — testing your focus, timing, and agility.
+
+💡 Features:
+
+Minimalist, clean interface powered by tkinter
+
+Real-time scoring system
+
+Increasing difficulty with each level
+
+Perfect for all ages — fun, challenging, and addictive!
+
+Great demonstration of event-driven programming in Python
+
+Whether you're looking to sharpen your reaction speed or just want a quick Python-powered gaming fix, Poke the Dots has you covered.
+
 
 
 Rules: 
